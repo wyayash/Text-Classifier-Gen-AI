@@ -1,0 +1,33 @@
+text,label,note
+"The app crashes every time I open the camera screen.",Bug Report,
+"Login button does nothing on Android 14.",Bug Report,
+"Exported PDF is blank after the latest update.",Bug Report,
+"Search returns duplicate results for the same item.",Bug Report,
+"Dark mode makes the text unreadable in settings.",Bug Report,
+"Notifications stopped arriving after I updated.",Bug Report,
+"It would be great if the app didn't freeze when I upload large photos.",Bug Report,"Phrased like a wish (Feature Request) but describes a defect"
+"Why does the page keep showing an error when I try to save?",Bug Report,"Question form hides a bug report"
+"Please add an option to export data as CSV.",Feature Request,
+"Can you add support for multiple languages?",Feature Request,
+"I wish there was a way to schedule posts in advance.",Feature Request,
+"Would love a widget for the home screen.",Feature Request,
+"Add keyboard shortcuts for power users.",Feature Request,
+"Please let us customise the dashboard layout.",Feature Request,
+"The app is great but needs a dark mode.",Feature Request,"Praise and request mixed in one sentence"
+"Search works, but filtering by date would make it perfect.",Feature Request,"Positive tone, but the real intent is a request"
+"Absolutely love the new design, so clean!",Praise,
+"Customer support solved my issue in five minutes. Amazing.",Praise,
+"Best app I've used for managing my tasks.",Praise,
+"Thank you for the update, everything feels much faster.",Praise,
+"Five stars, works flawlessly.",Praise,
+"The onboarding was smooth and easy.",Praise,
+"Not bad at all, I expected worse.",Praise,"Lukewarm, understated praise"
+"Finally an app that does what it says.",Praise,"Could be read as a complaint about past apps"
+"Why was I charged twice this month?",Billing Question,
+"How do I update my credit card on file?",Billing Question,
+"Can I get a refund for my annual plan?",Billing Question,
+"When does my free trial end?",Billing Question,
+"Where can I download my invoice?",Billing Question,
+"Does the Pro plan include unlimited storage?",Billing Question,
+"I was charged after I cancelled, and now I can't even log in.",Billing Question,"Two issues in one message: billing and login bug"
+"The payment page crashes when I enter my card details.",Bug Report,"Mentions payment, but the actual problem is a crash"
