@@ -1,0 +1,19 @@
+# Local Python environments and bytecode
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+
+# Local evaluation output (the checked-in example results.csv is retained)
+# Add results.csv here if you prefer not to version generated predictions.
