@@ -1,0 +1,33 @@
+text,label,note,predicted,confidence,reason,correct
+The app crashes every time I open the camera screen.,Bug Report,,Bug Report,0.95,User reports app crashes when opening camera screen.,True
+Login button does nothing on Android 14.,Bug Report,,Bug Report,0.95,The user reports a malfunction with the login button.,True
+Exported PDF is blank after the latest update.,Bug Report,,Bug Report,0.95,User reports a malfunction after an update.,True
+Search returns duplicate results for the same item.,Bug Report,,Bug Report,0.95,"User reports duplicate search results, indicating a software bug.",True
+Dark mode makes the text unreadable in settings.,Bug Report,,Bug Report,0.95,User reports an issue with dark mode making text unreadable.,True
+Notifications stopped arriving after I updated.,Bug Report,,Bug Report,0.9,User reports a malfunction after updating.,True
+It would be great if the app didn't freeze when I upload large photos.,Bug Report,Phrased like a wish (Feature Request) but describes a defect,Feature Request,0.95,User requests improved handling of large photo uploads.,False
+Why does the page keep showing an error when I try to save?,Bug Report,Question form hides a bug report,Bug Report,0.95,User reports an error occurring when attempting to save.,True
+Please add an option to export data as CSV.,Feature Request,,Feature Request,0.95,User is requesting a new export option.,True
+Can you add support for multiple languages?,Feature Request,,Feature Request,0.95,The user is requesting a new feature: multi-language support.,True
+I wish there was a way to schedule posts in advance.,Feature Request,,Feature Request,0.95,User requests a new scheduling feature.,True
+Would love a widget for the home screen.,Feature Request,,Feature Request,0.95,User is requesting a new widget for the home screen.,True
+Add keyboard shortcuts for power users.,Feature Request,,Feature Request,0.95,User is requesting a new feature (keyboard shortcuts).,True
+Please let us customise the dashboard layout.,Feature Request,,Feature Request,0.95,User requests a new customization feature for the dashboard layout.,True
+The app is great but needs a dark mode.,Feature Request,Praise and request mixed in one sentence,Feature Request,0.95,User requests a dark mode feature.,True
+"Search works, but filtering by date would make it perfect.",Feature Request,"Positive tone, but the real intent is a request",Feature Request,0.95,User requests an additional feature (date filtering) to improve search.,True
+"Absolutely love the new design, so clean!",Praise,,Praise,0.95,The user expresses positive feedback about the new design.,True
+Customer support solved my issue in five minutes. Amazing.,Praise,,Praise,0.99,The user expresses satisfaction with quick support.,True
+Best app I've used for managing my tasks.,Praise,,Praise,0.99,The user is giving positive feedback about the app.,True
+"Thank you for the update, everything feels much faster.",Praise,,Praise,0.95,"The user thanks for the update and notes improved speed, indicating satisfaction.",True
+"Five stars, works flawlessly.",Praise,,Praise,0.95,The user is giving a positive review.,True
+The onboarding was smooth and easy.,Praise,,Praise,0.99,Positive feedback about onboarding,True
+"Not bad at all, I expected worse.",Praise,"Lukewarm, understated praise",Praise,0.95,The user expresses satisfaction with the outcome.,True
+Finally an app that does what it says.,Praise,Could be read as a complaint about past apps,Praise,0.95,The user expresses satisfaction with the app.,True
+Why was I charged twice this month?,Billing Question,,Billing Question,0.95,User is asking about a duplicate charge.,True
+How do I update my credit card on file?,Billing Question,,Billing Question,0.95,User is asking how to update their credit card information.,True
+Can I get a refund for my annual plan?,Billing Question,,Billing Question,0.95,The user is asking about a refund for their annual plan.,True
+When does my free trial end?,Billing Question,,Billing Question,0.99,"Asks about the end date of a free trial, a billing-related question.",True
+Where can I download my invoice?,Billing Question,,Billing Question,0.99,User is asking where to download an invoice.,True
+Does the Pro plan include unlimited storage?,Billing Question,,Billing Question,0.9,"The user is asking about a feature of the Pro plan, which is a billing-related question.",True
+"I was charged after I cancelled, and now I can't even log in.",Billing Question,Two issues in one message: billing and login bug,Billing Question,0.9,"User reports being charged after cancellation, a billing issue.",True
+The payment page crashes when I enter my card details.,Bug Report,"Mentions payment, but the actual problem is a crash",Bug Report,0.95,User reports a crash when entering card details.,True
